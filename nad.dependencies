@@ -7,10 +7,10 @@
   },
   {
     "remote"       : "github",
-    "repository"   : "greenforce-project/kernel_xiaomi_citrus_sm6115",
+    "repository"   : "frostg-012/kernel_xiaomi_citrus_sm6115",
     "target_path"  : "kernel/xiaomi/juice",
     "clone-depth"  : "1",
-    "branch"       : "rvc"
+    "branch"       : "rvc.staging"
   },
   { 
     "remote"       : "github",
